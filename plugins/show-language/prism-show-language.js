@@ -152,6 +152,7 @@
 		"vim": "vim",
 		"visual-basic": "Visual Basic",
 		"vb": "Visual Basic",
+		"mc2": "WarpScript",
 		"wasm": "WebAssembly",
 		"wiki": "Wiki markup",
 		"xeoracube": "XeoraCube",

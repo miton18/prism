@@ -168,6 +168,7 @@
 		"ts": "typescript",
 		"t4": "t4-cs",
 		"vb": "visual-basic",
+		"mc2": "warpscript",
 		"xeoracube": "xeora",
 		"yml": "yaml"
 	}/*]*/;

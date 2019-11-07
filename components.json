@@ -1030,6 +1030,13 @@
 			"alias": "vb",
 			"owner": "Golmote"
 		},
+		"warpscript": {
+			"title": "WarpScript",
+			"owner": "miton18",
+			"alias": [
+				"mc2"
+			]
+		},
 		"wasm": {
 			"title": "WebAssembly",
 			"owner": "Golmote"
